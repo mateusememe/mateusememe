@@ -7,7 +7,7 @@
 
 ## 👩‍💻 Languages
 
-<div align="center">
+<div align="start">
     <div>
         <img width="10%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img width="5%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -24,7 +24,7 @@
 ## 🚀 Frameworks
 
 
-<div align="center">
+<div align="start">
     <img width="12%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
     <img width="10.5%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img width="15%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -37,8 +37,8 @@
 
 ## ⚡ Database
 
-<div align="center">
-    <div align="center">
+<div align="start">
+    <div align="start">
         <img width="10.25%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img width="14.7%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img width="10.5%" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red">
@@ -50,7 +50,7 @@
 <!-- 
 ## 💻 Workspace Spec
 
-<div align="center">
+<div align="start">
     <img width="37%" src="https://img.shields.io/badge/Intel-Core_i3_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
     <img width="34%" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 

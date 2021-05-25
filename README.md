@@ -41,7 +41,7 @@
     <div align="center">
         <img width="10.25%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img width="14.7%" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img width="10.5%" src="	https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red">
+        <img width="10.5%" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red">
         <img width="12%" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img width="22%" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
     </div>

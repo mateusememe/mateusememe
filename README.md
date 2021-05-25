@@ -1,6 +1,9 @@
 <h1 align="center"> Hello Strangers!, I'am Mateus.</h1>
----
 
+## About Me
+<p>
+    Hi i have 20 yo, and i'm a student of the sixth period in computer science at Universidade do Oeste Paulista, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications. But I have a lot of interest in game development (soon I will be studying more) because I love playing games since always, and I would love to know how it works behind all that.
+</p>
 
 ## 👩‍💻 Languages
 
@@ -28,8 +31,6 @@
     <img width="14.5%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img width="21%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img width="16%" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img width="15%" src="" />
-
 </div>
 
 
@@ -61,7 +62,7 @@
 </br>
 
 
-## 🐱‍👤 My Github Stats
+## 🐱‍👤 Stats
 
 
 <p align="center">

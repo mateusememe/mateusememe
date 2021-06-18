@@ -67,7 +67,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxngui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    [![rxngui Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? username=rxngui&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### Reach me out 👇

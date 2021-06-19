@@ -25,7 +25,7 @@
 
 
 <div align="start">
-    <img width="12%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+    <img width="9.75%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
     <img width="10.5%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img width="15%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img width="11.2%" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
@@ -67,7 +67,7 @@
 <p align="start">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
-  <img align="center" width="32%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&theme=tokyonight&layout=compact" />
+  <img width="27%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&theme=tokyonight&layout=compact" />
 </p>
 
 ### Reach me out 👇

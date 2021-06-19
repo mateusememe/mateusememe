@@ -68,7 +68,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
   <a href="https://github.com/rxngui/rxngui">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&layout=compact&theme=dark" />
+    <img align="center" width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&layout=compact&theme=dark&theme=tokyonight" />
   </a>
 </p>
 

@@ -65,10 +65,10 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
   <a href="https://github.com/rxngui/rxngui">
-    <img align="center" width="90%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&layout=compact&theme=tokyonight" />
+    <img align="center" width="33%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&layout=compact&theme=tokyonight" />
   </a>
 </p>
 

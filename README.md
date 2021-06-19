@@ -67,7 +67,7 @@
 <p align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=tokyonight" />
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=rxngui&theme=tokyonight" />
-  <img align="center" width="33%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&layout=compact&theme=tokyonight" />
+  <img align="center" width="33%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&theme=tokyonight" />
 </p>
 
 ### Reach me out 👇

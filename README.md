@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-    Hi i have 20 yo, and i'm a student of the sixth period in computer science at Universidade do Oeste Paulista, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications. But I have a lot of interest in game development (soon I will be studying more) because I love playing games since always, and I would love to know how it works behind all that.
+    Hi i have 20 yo, and i'm a student of the sixth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications. But I have a lot of interest in game development (soon I will be studying more) because I love playing games since always, and I would love to know how it works behind all that.
 </p>
 
 ## 👩‍💻 Languages

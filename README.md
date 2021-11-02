@@ -7,7 +7,7 @@
 </p>
 </br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=rxngui&color=green" alt="rxngui" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=mattew-me&color=green" alt="mattew-me" /> -->
 
 <h2 align="left">👩‍💻 Skills</h2>
 
@@ -40,8 +40,8 @@
 ## 🐱‍👤 Stats
 
 <p align="start"></br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rxngui&show_icons=true&theme=dracula" />
-  <img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rxngui&theme=dracula&layout=compact" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mattew-me&show_icons=true&theme=dracula" />
+  <img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mattew-me&theme=dracula&layout=compact" />
 </p>
 
 ### Reach me out 👇

@@ -41,7 +41,7 @@
 </br>
 </br>
 -->
-## 🐱‍👤 Stats
+## 📊 Stats
 
 <p align="start"></br>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mattew-me&show_icons=true&theme=graywhite" />

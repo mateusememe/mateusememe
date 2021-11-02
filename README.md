@@ -1,4 +1,4 @@
-<h1 align="center"> 🖖🏻 Hey guys!!, I'am Mateus</h1>
+<h1 align="center"> 🖖🏻 Hey guys!!, I'm Mateus</h1>
 
 ## About Me
 
@@ -7,8 +7,13 @@
 </p>
 </br>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mattew-me&color=green" alt="mattew-me" /> -->
 
+*  🔭 I’m currently working on some side projects.
+* 🌱 I’m currently learning Artificial Intelligence.
+* 
+<!-- <img src="https://komarev.com/ghpvc/?username=mattew-me&color=green" alt="mattew-me" /> -->
+</br>
+</br>
 <h2 align="left">👩‍💻 Skills</h2>
 
 <div style="display: inline_block"><br/>
@@ -37,3 +42,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mateus-men)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mattew.me/)
 [![Gmail Badge](https://img.shields.io/badge/-matt.mendon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.mendon@gmail.com)](mailto:matt.mendon@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wrongplayer?si=3dcdf26551d141d8)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/playerwrong/)

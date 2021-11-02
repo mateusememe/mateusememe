@@ -36,4 +36,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mateus-men)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mattew.me/)
-[![Gmail Badge](https://img.shields.io/badge/-matt.mendo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.mendo@gmail.com)](mailto:matt.mendon@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-matt.mendon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.mendon@gmail.com)](mailto:matt.mendon@gmail.com)

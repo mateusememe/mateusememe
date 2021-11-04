@@ -8,7 +8,7 @@
 <div style="display: inline_block"></br>
     <img align="right" src=".github/images/dinosaur-trex.gif" style="width:35%"/>
     <p align="left">
-        Hi i have 20 yo, and i'm a student of the sixth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
+        Hi i'am 20 yo, and i'm a student of the sixth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
     </p>
 </div>
 

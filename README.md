@@ -14,7 +14,7 @@
 
 </br>
 
-* 🔭 I’m currently working on some side projects.
+* 🔭 I’m currently working on my graduation project.
 * 🌱 I’m vurrently learning about artificial intelligence, computer vision, computer graphics, AWS and Software Engineering.
 * 💭 "Every dream you leave behind is a piece of your future that ceases to exist" - Steve Jobs
 </br>

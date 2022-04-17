@@ -14,8 +14,8 @@
 
 </br>
 
-* 🔭 I’m currently working on my graduation project.
-* 🌱 I’m vurrently learning about artificial intelligence, computer vision, computer graphics, AWS and Software Engineering.
+* 🔭 I’m currently working on my graduation project and some web projects.
+* 🌱 I’m vurrently learning about artificial intelligence, computer vision, computer graphics, AWS and Web Development.
 * 💭 "Every dream you leave behind is a piece of your future that ceases to exist" - Steve Jobs
 </br>
 </br>
@@ -32,6 +32,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mateus-men)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mattew.me/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matt.mendon@gmail.com)](mailto:matt.mendon@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://t.me/mattewme)
-[![Teleegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://open.spotify.com/user/wrongplayer?si=3dcdf26551d141d8)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wrongplayer?si=3dcdf26551d141d8)
+[![Teleegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mattewme)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/playerwrong/)

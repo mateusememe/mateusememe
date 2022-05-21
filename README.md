@@ -2,9 +2,6 @@
 
 ## 🤔 About Me
 
-
-
-
 <div style="display: inline_block"></br>
     <img align="right" src=".github/images/dinosaur-trex.gif" style="width:35%"/>
     <p align="left">

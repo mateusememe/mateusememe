@@ -3,7 +3,6 @@
 ## 🤔 About Me
 
 <div style="display: inline_block"></br>
-    <img align="right" alt="Mateus-TRex" height="100" src="https://github.com/mateusememe/mateusememe/raw/main/.github/images/dinosaur-trex.gif"/>
     <p align="left" style="font-size: 15px;">
         Hi I'm 20 yo, and i'm a student of the seventh period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
     </p>
@@ -12,7 +11,6 @@
 </br>
 
 <div align="center" style="display: inline_block"></br>
-  <a href="https://github.com/mateusememe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
@@ -50,7 +48,7 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mateusememe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mateusememe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a onclick="()=> {var inputHidden = document.createElement('input').value = 'mattew-me#1648';  inputHidden.select(); document.execCommand('copy'); }" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matt.mendon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-men" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

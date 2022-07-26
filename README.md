@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"></br>
     <p align="left" style="font-size: 15px;">
-        Hi I'm 20 yo, and i'm a student of the seventh period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
+        Hi I'm 21 yo, and i'm a student of the eigth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
     </p>
 </div>
 

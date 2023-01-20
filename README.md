@@ -9,8 +9,14 @@
 </div>
 
 <div align="center" style="display: inline_block"></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&langs_count=7&theme=graywhite"/>
+  <img
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=graywhite&count_private=true"
+   />
+  <img
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+  />
 </div>
 </br>
 

@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"></br>
     <p align="left" style="font-size: 15px;">
-        Hi I'm 21 yo, and i'm a student of the eigth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
+        Hi I'm 22 yo, and i'm a student of the eigth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
     </p>
 </div>
 
@@ -20,7 +20,7 @@
 </div>
 </br>
 
-* 🔭 I’m currently working on my graduation project and some web projects.
+* 🔭 I’m currently working on improve my algorithms logic and data structures knowledge and some web projects.
 * 🌱 I’m vurrently learning about artificial intelligence, computer vision, computer graphics, AWS and Web Development.
 * 💭 "Every dream you leave behind is a piece of your future that ceases to exist" - Steve Jobs
 

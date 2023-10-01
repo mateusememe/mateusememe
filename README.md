@@ -22,6 +22,7 @@
 
 * 🔭 I’m currently working on improve my algorithms logic and data structures knowledge and some web projects.
 * 🌱 I’m vurrently learning about artificial intelligence, computer vision, computer graphics, AWS and Web Development.
+* 📫 How to reach me matt.mendon@gmail.com
 * 💭 "Every dream you leave behind is a piece of your future that ceases to exist" - Steve Jobs
 
 </br>

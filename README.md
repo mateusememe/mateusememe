@@ -4,18 +4,18 @@
 
 <div style="display: inline_block"></br>
     <p align="left" style="font-size: 15px;">
-        Hi I'm 22 yo, and i'm a student of the eigth period in computer science at University of Western São Paulo, I like the most diverse technologies and areas of computing, so here you will find the most diverse types of repositories and applications.
+        Hello, I'm a 22-year-old computer scientist from the University of Western São Paulo. My passion lies in the diverse fields of technology and computing, making my GitHub repositories and applications a melting pot of innovation and creativity. I'm enthusiastic about exploring different technologies and domains within the world of computing.
     </p>
 </div>
 
 <div align="center" style="display: inline_block"></br>
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=graywhite&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=monokai&count_private=true"
    />
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=monokai"
   />
 </div>
 </br>

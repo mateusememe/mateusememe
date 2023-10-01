@@ -60,4 +60,3 @@
 ------------
 <br>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=mateusememe)

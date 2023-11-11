@@ -31,18 +31,21 @@
 
 </br>
 
+### 🛠️ My Skills
+------------
 [![My Skills](https://skillicons.dev/icons?perline=12&i=js,ts,java,python,cpp,pug,nodejs,react,vuejs,spring,nest,next,tensorflow,tailwind,postgres,mysql,mongodb,firebase,prisma,linux,docker,aws,gcp,figma)](https://skillicons.dev)
-
 <br>
+<br>
+
+### ✉️ How to Reach Me
+
 <div> 
   <a href="https://www.youtube.com/@mateusememe" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mateusememe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mateusememe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/mateusememe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&text=mateusememe" target="_blank"></a> 
   <a href = "mailto:matt.mendon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-men" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-------------
 <br>
 

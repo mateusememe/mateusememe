@@ -11,11 +11,11 @@
 <div align="center" style="display: inline_block"></br>
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=monokai&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=github_dark&count_private=true"
    />
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=monokai"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=github_dark"
   />
 </div>
 </br>

@@ -21,8 +21,8 @@
 </br>
 
 * 🔭 I’m currently working on improve my algorithms logic and data structures knowledge and some web projects.
-* 🌱 I’m currently learning about API's and Web development, GCP, AWS and Java.
-* 📫 How to reach me: matt.mendon@gmail.com or on discord #mateusememe
+* 🌱 I’m currently learning about Artificial Intelligence, Computer Vision, AWS and Java.
+* 📫 How to reach me: matt.mendon@gmail.com or on discord ```#mateusememe```
 * 💭 "Technology should improve your life, not become your life." - Bill Gates
 
 </br>
@@ -31,7 +31,7 @@
 
 </br>
 
-### 🛠️ My Skills
+### 🛠️ My Tech Skills
 ------------
 [![My Skills](https://skillicons.dev/icons?perline=12&i=js,ts,java,python,cpp,pug,nodejs,react,vuejs,spring,nest,next,tensorflow,tailwind,postgres,mysql,mongodb,firebase,prisma,linux,docker,aws,gcp,figma)](https://skillicons.dev)
 <br>
@@ -48,4 +48,10 @@
   <a href="https://www.linkedin.com/in/mateus-men" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+
+
+
+
+
+
 

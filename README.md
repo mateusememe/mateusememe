@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"></br>
     <p align="left" style="font-size: 15px;">
-        Hello, I'm a 23-year-old computer scientist from the University of Western São Paulo. My passion lies in the diverse fields of technology and computing, making my GitHub repositories and applications a melting pot of innovation and creativity. I'm enthusiastic about exploring different technologies and domains within the world of computing.
+        Hello, I'm a 24-year-old computer scientist from the University of Western São Paulo. My passion lies in the diverse fields of technology and computing, making my GitHub repositories and applications a melting pot of innovation and creativity. I'm enthusiastic about exploring different technologies and domains within the world of computing.
     </p>
 </div>
 

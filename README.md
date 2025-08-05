@@ -20,8 +20,8 @@
 </div>
 </br>
 
-* 🔭 I’m currently working on improve my algorithms logic and data structures knowledge and some web projects.
-* 🌱 I’m currently learning about Artificial Intelligence, Computer Vision, AWS and Java.
+* 🔭 I’m currently working on improve my algorithms logic, data structures and software architecture knowledge and some web projects.
+* 🌱 I’m currently learning about Artificial Intelligence, Computer Vision, AWS, GCP, ElasticSearch and Java.
 * 📫 How to reach me: matt.mendon@gmail.com or on discord ```#mateusememe```
 * 💭 "Technology should improve your life, not become your life." - Bill Gates
 

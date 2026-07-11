@@ -26,7 +26,8 @@ I am also pursuing a Master's degree in Computer Science at UNESP, with research
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?perline=12&i=python,go,java,ts,js,c,cpp,spring,nodejs,nest,next,react,docker,kubernetes,aws,gcp,kafka,rabbitmq,postgres,mysql,mongodb,redis,elasticsearch,grafana,linux)](https://skillicons.dev)
+[![Core Backend](https://skillicons.dev/icons?perline=12&i=python,go,java,ts,spring,nodejs,nestjs,graphql,docker,kubernetes,aws,gcp)](https://skillicons.dev)
+[![Data and Platform](https://skillicons.dev/icons?perline=12&i=terraform,kafka,rabbitmq,postgres,mysql,mongodb,redis,elasticsearch,grafana,jenkins,git,githubactions,linux)](https://skillicons.dev)
 
 ### Experience Snapshot
 
@@ -47,11 +48,6 @@ I am also pursuing a Master's degree in Computer Science at UNESP, with research
 | [ai-autopsy-devfest-2025](https://github.com/mateusememe/ai-autopsy-devfest-2025) | DevFest workshop material for debugging AI decisions with LIME and SHAP. |
 | [codecash](https://github.com/mateusememe/codecash) | Transactional API course project with Spring Boot, GraphQL, PostgreSQL and Redis. |
 | [search.it](https://github.com/mateusememe/search.it) | LuizaLabs technical challenge focused on search/backend engineering. |
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Mateus GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=github_dark&hide_border=true" alt="Mateus top languages">
-</p>
 
 <p align="center">
   Visual profile format inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's GitHub Profile README</a>. Thank you, Andrew.

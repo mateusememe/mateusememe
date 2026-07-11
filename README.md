@@ -1,57 +1,58 @@
-<h1 align="center"> 🖖🏻 Hello guys!, I'm Mateus</h1>
+<a href="https://github.com/mateusememe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Mateus Mendonca Monteiro's GitHub profile README" src="light_mode.svg">
+  </picture>
+</a>
 
-## 🤔 About Me
+<p align="center">
+  Software Engineer at <a href="https://github.com/itau">@Itau</a> · MSc Computer Science Researcher at UNESP · Brazil
+</p>
 
-<div style="display: inline_block"></br>
-    <p align="left" style="font-size: 15px;">
-        Hello, I'm a 24-year-old computer scientist from the University of Western São Paulo. My passion lies in the diverse fields of technology and computing, making my GitHub repositories and applications a melting pot of innovation and creativity. I'm enthusiastic about exploring different technologies and domains within the world of computing.
-    </p>
-</div>
+<p align="center">
+  <a href="mailto:matt.mendon@gmail.com"><img src="https://img.shields.io/badge/Email-matt.mendon%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mateus-men"><img src="https://img.shields.io/badge/LinkedIn-Mateus%20Mendonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@mateusememe"><img src="https://img.shields.io/badge/YouTube-mateusememe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <img src="https://img.shields.io/badge/Discord-mateusememe-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</p>
 
-<div align="center" style="display: inline_block"></br>
-  <img
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=github_dark&count_private=true"
-   />
-  <img
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=github_dark"
-  />
-</div>
-</br>
+### About
 
-* 🔭 I’m currently working on improve my algorithms logic, data structures and software architecture knowledge and some web projects.
-* 🌱 I’m currently learning about Artificial Intelligence, Computer Vision, AWS, GCP, ElasticSearch and Java.
-* 📫 How to reach me: matt.mendon@gmail.com or on discord ```#mateusememe```
-* 💭 "Technology should improve your life, not become your life." - Bill Gates
+I am a backend software engineer focused on scalable systems, cloud platforms and data products. At Itau Unibanco, I build accelerator tools and internal tech products for complex data migrations, multi-account AWS environments and Customer Data Platform integrations, applying Data Mesh, Event-Driven Design, serverless architecture and strong governance/observability practices.
 
-</br>
+Before Itau, I worked at LuizaLabs on search platform evolution and high-availability microservices impacting millions of users. My day-to-day stack has included Python, Go, Java, Spring Boot, Quarkus, TypeScript, Node.js, Kubernetes, AWS, GCP, Magalu Cloud, Kafka, RabbitMQ, Google Pub/Sub, MongoDB, Redis, Elasticsearch, PostgreSQL, Datadog and Grafana.
 
-<img align="right" alt="Mateus-pic" height="150" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/54865573?v=4">
+I am also pursuing a Master's degree in Computer Science at UNESP, with research and public projects around AI, data imputation, explainability and applied machine learning.
 
-</br>
+### Tech Stack
 
-### 🛠️ My Tech Skills
-------------
-[![My Skills](https://skillicons.dev/icons?perline=12&i=js,ts,java,python,cpp,pug,nodejs,react,vuejs,spring,nest,next,tensorflow,tailwind,postgres,mysql,mongodb,firebase,prisma,linux,docker,aws,gcp,figma)](https://skillicons.dev)
-<br>
-<br>
+[![My Skills](https://skillicons.dev/icons?perline=12&i=python,go,java,ts,js,c,cpp,spring,nodejs,nest,next,react,docker,kubernetes,aws,gcp,kafka,rabbitmq,postgres,mysql,mongodb,redis,elasticsearch,grafana,linux)](https://skillicons.dev)
 
-### ✉️ How to Reach Me
+### Experience Snapshot
 
-<div> 
-  <a href="https://www.youtube.com/@mateusememe" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mateusememe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/mateusememe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&text=mateusememe" target="_blank"></a> 
-  <a href = "mailto:matt.mendon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-men" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+| Role | Scope |
+| --- | --- |
+| Software Engineer at Itau Unibanco | Data migration accelerators, internal data products, Data Mesh, Event-Driven Design, AWS Step Functions, Glue, Lambda, KMS, CloudTrail, CloudWatch, X-Ray, Datadog and Grafana. |
+| Backend Engineer at LuizaLabs | Search engine evolution, high-availability microservices, Java/Spring/Quarkus, Node.js/Fastify, TypeScript, MongoDB, Redis, Elasticsearch, GraphQL, RabbitMQ, Pub/Sub, GCP, Kubernetes and ArgoCD. |
+| Software Engineer at Vericode and ANBIMA | Java microservices, REST APIs, SQL/NoSQL, CI/CD, Java 8 to Java 11 migration, SQL Server and legacy-to-modern system maintenance. |
+| MSc Researcher at UNESP | Computer Science research around AI, imputation, clustering, explainability and applied machine learning. |
 
+### Selected Public Work
 
+| Project | Focus |
+| --- | --- |
+| [transaction.ledger](https://github.com/mateusememe/transaction.ledger) | Resilient financial order service with AWS Lambda, DynamoDB, SQS, Clean Architecture, idempotency, outbox and observability. |
+| [fuzzymeans-ai](https://github.com/mateusememe/fuzzymeans-ai) | Master's AI project and paper around Fuzzy C-Means and Noise Clustering Fuzzy C-Means for data imputation. |
+| [rinha-backend-2026-c](https://github.com/mateusememe/rinha-backend-2026-c) | Backend performance challenge implementation in C. |
+| [ai-autopsy-devfest-2025](https://github.com/mateusememe/ai-autopsy-devfest-2025) | DevFest workshop material for debugging AI decisions with LIME and SHAP. |
+| [codecash](https://github.com/mateusememe/codecash) | Transactional API course project with Spring Boot, GraphQL, PostgreSQL and Redis. |
+| [search.it](https://github.com/mateusememe/search.it) | LuizaLabs technical challenge focused on search/backend engineering. |
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateusememe&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Mateus GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusememe&layout=compact&theme=github_dark&hide_border=true" alt="Mateus top languages">
+</p>
 
-
-
-
+<p align="center">
+  Visual profile format inspired by <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant's GitHub Profile README</a>. Thank you, Andrew.
+</p>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="530px" font-size="14px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.accent {fill: #7ee787;}
+.muted {fill: #8b949e;}
+.line {fill: #30363d;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1200px" height="530px" fill="#0d1117" rx="15"/>
+<text x="24" y="34" fill="#c9d1d9">
+<tspan x="24" y="34">+-- /home/mateus/profile.json ----+</tspan>
+<tspan x="24" y="54">| {                                |</tspan>
+<tspan x="24" y="74">| "name": "Mateus",                |</tspan>
+<tspan x="24" y="94">| "role": "Software Engineer",     |</tspan>
+<tspan x="24" y="114">| "company": "Itau Unibanco",      |</tspan>
+<tspan x="24" y="134">| "country": "Brazil",             |</tspan>
+<tspan x="24" y="154">| "github_age": "6y 10m 8d",       |</tspan>
+<tspan x="24" y="174">| "public_repos": 31,              |</tspan>
+<tspan x="24" y="194">| "followers": 123,                |</tspan>
+<tspan x="24" y="214">| "stars": 40                      |</tspan>
+<tspan x="24" y="234">| }                                |</tspan>
+<tspan x="24" y="254">+----------------------------------+</tspan>
+<tspan x="24" y="294">          ________</tspan>
+<tspan x="24" y="314">         / ____/ /___  __  ______/ /</tspan>
+<tspan x="24" y="334">        / /   / / __ \/ / / / __  / </tspan>
+<tspan x="24" y="354">       / /___/ / /_/ / /_/ / /_/ /  </tspan>
+<tspan x="24" y="374">       \____/_/\____/\__,_/\__,_/   </tspan>
+<tspan x="24" y="414">+-- current bias ------------------+</tspan>
+<tspan x="24" y="434">| Data platforms that migrate well |</tspan>
+<tspan x="24" y="454">| Backend systems that scale.      |</tspan>
+<tspan x="24" y="474">| AI work that can be explained.   |</tspan>
+<tspan x="24" y="494">| Cloud systems with observability.|</tspan>
+<tspan x="24" y="514">+----------------------------------+</tspan>
+</text>
+<text x="390" y="34" fill="#c9d1d9">
+<tspan x="390" y="34">mateus@github</tspan><tspan class="line"> -====================-</tspan>
+<tspan x="390" y="54" class="muted">. </tspan><tspan class="key">Name</tspan>: <tspan class="value">Mateus Mendonça Monteiro</tspan>
+<tspan x="390" y="74" class="muted">. </tspan><tspan class="key">Role</tspan>: <tspan class="value">Software Engineer @ Itau</tspan>
+<tspan x="390" y="94" class="muted">. </tspan><tspan class="key">Education</tspan>: <tspan class="value">MSc CS @ UNESP</tspan>
+<tspan x="390" y="114" class="muted">. </tspan><tspan class="key">Location</tspan>: <tspan class="value">Brazil</tspan>
+<tspan x="390" y="134" class="muted">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value">Backend, data platforms, cloud</tspan>
+<tspan x="390" y="154" class="muted">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="value">31 repos, 123 followers, 40 stars</tspan>
+<tspan x="390" y="174">- Stack</tspan><tspan class="line"> -====================-</tspan>
+<tspan x="390" y="194" class="muted">. </tspan><tspan class="key">Languages.Main</tspan>: <tspan class="value">Python, Go, Java, TS</tspan>
+<tspan x="390" y="214" class="muted">. </tspan><tspan class="key">Backend.API</tspan>: <tspan class="value">Spring, Quarkus, Nest, REST</tspan>
+<tspan x="390" y="234" class="muted">. </tspan><tspan class="key">Data.Platforms</tspan>: <tspan class="value">Data Mesh, EDD, ETL</tspan>
+<tspan x="390" y="254" class="muted">. </tspan><tspan class="key">Messaging</tspan>: <tspan class="value">Kafka, RabbitMQ, Pub/Sub</tspan>
+<tspan x="390" y="274" class="muted">. </tspan><tspan class="key">Cloud.Infra</tspan>: <tspan class="value">AWS, GCP, K8s, Docker</tspan>
+<tspan x="390" y="294" class="muted">. </tspan><tspan class="key">Storage.Search</tspan>: <tspan class="value">Postgres, MongoDB, Redis</tspan>
+<tspan x="390" y="314" class="muted">. </tspan><tspan class="key">Observability</tspan>: <tspan class="value">Datadog, Grafana, X-Ray</tspan>
+<tspan x="390" y="334" class="muted">. </tspan><tspan class="key">Architecture</tspan>: <tspan class="value">Hexagonal, Clean, SOLID</tspan>
+<tspan x="390" y="354">- Selected Public Work</tspan><tspan class="line"> -==============-</tspan>
+<tspan x="390" y="374" class="muted">. </tspan><tspan class="key">transaction.ledger</tspan>: <tspan class="value">AWS ledger</tspan>
+<tspan x="390" y="394" class="muted">. </tspan><tspan class="key">fuzzymeans-ai</tspan>: <tspan class="value">AI imputation</tspan>
+<tspan x="390" y="414" class="muted">. </tspan><tspan class="key">ai-autopsy-devfest</tspan>: <tspan class="value">Explainable AI</tspan>
+<tspan x="390" y="434" class="muted">. </tspan><tspan class="key">codecash</tspan>: <tspan class="value">Spring API</tspan>
+<tspan x="390" y="454" class="muted">. </tspan>
+<tspan x="390" y="474">- Contact</tspan><tspan class="line"> -===================-</tspan>
+<tspan x="390" y="494" class="muted">. </tspan><tspan class="key">Email</tspan>: <tspan class="value">matt.mendon@gmail.com</tspan>
+<tspan x="390" y="514" class="muted">. </tspan><tspan class="key">LinkedIn</tspan>: <tspan class="accent">/in/mateus-men</tspan>
+</text>
+</svg>

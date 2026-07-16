@@ -23,9 +23,9 @@ text, tspan {white-space: pre;}
 <tspan x="24" y="94">| "role": "Software Engineer",     |</tspan>
 <tspan x="24" y="114">| "company": "Itau Unibanco",      |</tspan>
 <tspan x="24" y="134">| "country": "Brazil",             |</tspan>
-<tspan x="24" y="154">| "github_age": "6y 10m 12d",      |</tspan>
+<tspan x="24" y="154">| "github_age": "6y 10m 13d",      |</tspan>
 <tspan x="24" y="174">| "public_repos": 31,              |</tspan>
-<tspan x="24" y="194">| "followers": 123,                |</tspan>
+<tspan x="24" y="194">| "followers": 124,                |</tspan>
 <tspan x="24" y="214">| "stars": 40                      |</tspan>
 <tspan x="24" y="234">| }                                |</tspan>
 <tspan x="24" y="254">+----------------------------------+</tspan>
@@ -48,7 +48,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="94" class="muted">. </tspan><tspan class="key">Education</tspan>: <tspan class="value">MSc CS @ UNESP</tspan>
 <tspan x="390" y="114" class="muted">. </tspan><tspan class="key">Location</tspan>: <tspan class="value">Brazil</tspan>
 <tspan x="390" y="134" class="muted">. </tspan><tspan class="key">Focus</tspan>: <tspan class="value">Backend, data platforms, cloud</tspan>
-<tspan x="390" y="154" class="muted">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="value">31 repos, 123 followers, 40 stars</tspan>
+<tspan x="390" y="154" class="muted">. </tspan><tspan class="key">GitHub</tspan>: <tspan class="value">31 repos, 124 followers, 40 stars</tspan>
 <tspan x="390" y="174">- Stack</tspan><tspan class="line"> -====================-</tspan>
 <tspan x="390" y="194" class="muted">. </tspan><tspan class="key">Languages.Main</tspan>: <tspan class="value">Python, Go, Java, TS</tspan>
 <tspan x="390" y="214" class="muted">. </tspan><tspan class="key">Backend.API</tspan>: <tspan class="value">Spring, Quarkus, Nest, REST</tspan>
